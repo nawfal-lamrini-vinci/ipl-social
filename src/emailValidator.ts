@@ -9,7 +9,7 @@
  * @param email - La chaîne de caractères à valider
  * @returns true si l'email est valide, false sinon
  */
-function validateEmail(email: string): boolean {
+export function validateEmail(email: string): boolean {
   // Vérifier si l'email contient des espaces
   if (email.indexOf(' ') !== -1) {
     return false;
@@ -54,4 +54,3 @@ function validateEmail(email: string): boolean {
   return true;
 }
 
-module.exports = validateEmail;
