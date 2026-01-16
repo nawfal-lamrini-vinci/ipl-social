@@ -1,0 +1,24 @@
+{
+  "name": "ipl-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawfal-lamrini-vinci/ipl-social.git"
+  },
+  "keywords": [],
+  "author": "Lamrini Nawfal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawfal-lamrini-vinci/ipl-social/issues"
+  },
+  "homepage": "https://github.com/nawfal-lamrini-vinci/ipl-social#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "typescript": "^5.9.3"
+  }
+}
