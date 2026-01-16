@@ -1,24 +1,28 @@
 {
   "name": "ipl-social",
   "version": "1.0.0",
-  "description": "",
-  "main": "emailValidator.ts",
+  "description": "Email validation function with TDD approach for DevOps course",
+  "main": "dist/emailValidator.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "build": "tsc",
+    "clean": "rm -rf dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nawfal-lamrini-vinci/ipl-social.git"
-  },
-  "keywords": [],
-  "author": "Lamrini Nawfal",
+  "keywords": [
+    "devops",
+    "tdd",
+    "email-validation",
+    "typescript"
+  ],
+  "author": "Lamrani Nawfal",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nawfal-lamrini-vinci/ipl-social/issues"
-  },
-  "homepage": "https://github.com/nawfal-lamrini-vinci/ipl-social#readme",
   "devDependencies": {
-    "@types/node": "^25.0.9",
-    "typescript": "^5.9.3"
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.6",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.3"
   }
 }
