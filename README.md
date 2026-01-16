@@ -1,9 +1,9 @@
 # IPL Social
 
 ## Informations de l'étudiant
-- **Nom, Prénom:** [Lamrini], [Nawfal]
-- **Email Vinci:** [nawfal.lamrini@student.vinci.be]
-- **URL GitHub:** [https://github.com/nawfal-lamrini-vinci/ipl-social]
+- **Nom, Prénom:** Lamrini Nawfal
+- **Email Vinci:** nawfal.lamrini@student.vinci.be
+- **URL GitHub:** https://github.com/nawfal-lamrini-vinci/ipl-social
 
 ## Description du projet
 
@@ -78,4 +78,4 @@ Le développement a suivi l'approche Test Driven Development :
 
 ## Auteur
 
-Projet réalisé dans le cadre de l'examen de DevOps - Janvier 2026
+Projet réalisé dans le cadre de l'examen de DevOps - Janvier 2026 - Lamrini Nawfal
